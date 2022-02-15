@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning **JavaScript** and **Vue 3**
 # Collaboration project:
 - TechMaster https://github.com/kondrei/TechMaster/tree/quiz-categories
-- Technology used: Vue.JS (Composition API), SCSS, e2e testing framework (Cypress)
-- My collaborations: Footer.vue, footer.spec.js, QuizCategories.vue. quizCategories.specs.js,
+  - Technology used: Vue.JS (Composition API), SCSS, e2e testing framework (Cypress)
+  - My collaborations: Footer.vue, footer.spec.js, QuizCategories.vue. quizCategories.specs.js,
 
 # Personal projects (for learning purpose)
 - Etch-A-Sketch https://github.com/kondrei/odin/tree/main/Sketch
