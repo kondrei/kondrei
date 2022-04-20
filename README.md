@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning **JavaScript** and **Vue 3**
+- 🌱 I’m currently learning **JavaScript**, **React** and **Next.js**
 # Collaboration project:
 - TechMaster https://github.com/kondrei/TechMaster/tree/quiz-categories
   - Technology used: Vue.JS (Composition API), SCSS, e2e testing framework (Cypress)
