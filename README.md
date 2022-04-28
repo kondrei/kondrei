@@ -6,6 +6,7 @@
   - My collaborations: Footer.vue, footer.spec.js, QuizCategories.vue. quizCategories.specs.js,
 
 # Personal projects (for learning purpose)
+- Registration form with data validations in React https://github.com/kondrei/registrationForm
 - Etch-A-Sketch https://github.com/kondrei/odin/tree/main/Sketch
 - Rock, Paper or Scissors https://github.com/kondrei/odin/tree/main/rps
 - Calculator https://github.com/kondrei/Calculator
